@@ -14,7 +14,7 @@ extensions = {
     "Images": ['.jpeg', '.jpg', '.png', '.bmp', '.ico', '.svg', '.webp', '.gif',
                '.psd', '.heic', '.nef', '.crw', '.ai', '.id'],
     "Videos": ['.avi', '.divx', '.mov', '.mp4', '.mpg', '.mkv', '.wmv', '.wpl'],
-    "Programs": ['.exe','.msi',".sh"]
+    "Programs": ['.exe','.msi','.sh']
 }
 path_file = os.path.dirname(os.path.abspath(__file__))
 
