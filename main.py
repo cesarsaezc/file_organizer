@@ -8,7 +8,7 @@ extensions = {
     "Documents": ['.txt', '.doc', '.docx', '.docm', '.odt', '.pdf', '.rtf',
                   '.csv', '.xls', '.xlsx', '.xlsm', '.ods', '.pps', '.ppt',
                   '.ppsx', '.pptx', '.ppsm', '.pptm', '.potx', '.odp'],
-    "Compressed": ['.zip', '.rar', '.rar5', '.7z', '.ace', '.r00', 'r01', 'etc',
+    "Compressed": ['.zip', '.rar', '.rar5', '.7z', '.ace', '.r00', '.r01', '.etc',
                    '.gz', '.tar', '.bz2', '.iso'],
     "Music": ['.mp3', '.wma', '.wav', '.flac', '.midi', '.ogg', '.m3u', '.aac'],
     "Images": ['.jpeg', '.jpg', '.png', '.bmp', '.ico', '.svg', '.webp', '.gif',
